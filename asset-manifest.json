@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Dima-Semenov/page2.git/static/css/main.b48f649c.chunk.css",
+    "main.js": "/Dima-Semenov/page2.git/static/js/main.516497c8.chunk.js",
+    "main.js.map": "/Dima-Semenov/page2.git/static/js/main.516497c8.chunk.js.map",
+    "runtime-main.js": "/Dima-Semenov/page2.git/static/js/runtime-main.4ff30b2c.js",
+    "runtime-main.js.map": "/Dima-Semenov/page2.git/static/js/runtime-main.4ff30b2c.js.map",
+    "static/js/2.c33dbb17.chunk.js": "/Dima-Semenov/page2.git/static/js/2.c33dbb17.chunk.js",
+    "static/js/2.c33dbb17.chunk.js.map": "/Dima-Semenov/page2.git/static/js/2.c33dbb17.chunk.js.map",
+    "static/js/3.74146a19.chunk.js": "/Dima-Semenov/page2.git/static/js/3.74146a19.chunk.js",
+    "static/js/3.74146a19.chunk.js.map": "/Dima-Semenov/page2.git/static/js/3.74146a19.chunk.js.map",
+    "index.html": "/Dima-Semenov/page2.git/index.html",
+    "static/css/main.b48f649c.chunk.css.map": "/Dima-Semenov/page2.git/static/css/main.b48f649c.chunk.css.map",
+    "static/js/2.c33dbb17.chunk.js.LICENSE.txt": "/Dima-Semenov/page2.git/static/js/2.c33dbb17.chunk.js.LICENSE.txt",
+    "static/media/arrow.5b0512cf.svg": "/Dima-Semenov/page2.git/static/media/arrow.5b0512cf.svg",
+    "static/media/clipboard.5b57fbd7.svg": "/Dima-Semenov/page2.git/static/media/clipboard.5b57fbd7.svg",
+    "static/media/email.507e95b6.svg": "/Dima-Semenov/page2.git/static/media/email.507e95b6.svg",
+    "static/media/home.09e39082.svg": "/Dima-Semenov/page2.git/static/media/home.09e39082.svg",
+    "static/media/list.921bb3e2.svg": "/Dima-Semenov/page2.git/static/media/list.921bb3e2.svg",
+    "static/media/notification.5b4a5ba6.svg": "/Dima-Semenov/page2.git/static/media/notification.5b4a5ba6.svg",
+    "static/media/question.9fd19bc3.svg": "/Dima-Semenov/page2.git/static/media/question.9fd19bc3.svg",
+    "static/media/rec.d4a105dc.svg": "/Dima-Semenov/page2.git/static/media/rec.d4a105dc.svg",
+    "static/media/search.637db432.svg": "/Dima-Semenov/page2.git/static/media/search.637db432.svg",
+    "static/media/settings.f53fd2a5.svg": "/Dima-Semenov/page2.git/static/media/settings.f53fd2a5.svg",
+    "static/media/shield.6f8493c0.svg": "/Dima-Semenov/page2.git/static/media/shield.6f8493c0.svg",
+    "static/media/star.5cf67a03.svg": "/Dima-Semenov/page2.git/static/media/star.5cf67a03.svg",
+    "static/media/user.fbec6224.svg": "/Dima-Semenov/page2.git/static/media/user.fbec6224.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff30b2c.js",
+    "static/js/2.c33dbb17.chunk.js",
+    "static/css/main.b48f649c.chunk.css",
+    "static/js/main.516497c8.chunk.js"
+  ]
+}
