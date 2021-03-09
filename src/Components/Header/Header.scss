@@ -1,0 +1,51 @@
+.header {
+  height: 50px;
+  background-color: #5685FD;
+  padding: 10px 30px;
+
+  display: flex;
+  justify-content: space-between;
+
+  &__title {
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  &__search {
+    display: flex;
+    align-items: center;
+  }
+
+  &__input {
+    height: 30px;
+    padding: 6px;
+    border: none;
+    font-size: 17px;
+  }
+
+  &__button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-left: 20px;
+    transition-duration: .5s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+
+    &-active {
+      margin: 0;
+      border-radius: 0;
+    }
+  }
+
+  &__icon {
+    width: 15px;
+    height: 15px;
+    text-align: center;
+  }
+}
